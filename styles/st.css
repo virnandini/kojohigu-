@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+
+#fontstylenavbar1 {
+    
+    font-family: Varela Roundwidth; 
+    font-size:30px; 
+  }
+
+#fontstylenavbar2 {
+    
+    font-family: Varela Roundwidth; 
+    font-size:20px; 
+  }
+#home {
+    padding-top: 50px; 
+    background-size: 100%;
+    height: 200px;
+}
+#judulmenu{
+    font-size:7
+    5px; 
+    padding: 40px;
+}
+#judulmenufooter{
+  font-size:75px;
+  padding: 50px;
+}
+small, .small {
+  font-size: 20px;
+}
+#judul{
+    font-size:50px;
+}
+#teksisi{
+    font-size:25px;
+}
+.fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.masthead {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 100px;
+    padding: 150px 0;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
+.masthead h1, .masthead .h1 {
+  font-family: "Varela Round";
+  font-size:70px;
+  line-height: 70px;
+  letter-spacing: 35px;
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0));
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.masthead h2, .masthead .h2 {
+    font-family: "Varela Round";
+  max-width: 200px;
+  font-size: 20px;
+}
+
+
+
+.footer {
+  padding: 5rem 0;
+}
